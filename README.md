@@ -1,3 +1,4 @@
+<img width="960" alt="Untitled" src="https://user-images.githubusercontent.com/106093711/181402474-1e2f5e9c-61a4-495a-98a1-c6c9495caecb.png">
 MeaghansEmployeeCLI
 
 Description
